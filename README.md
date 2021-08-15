@@ -15,7 +15,7 @@
 <h2>Apresentação do portfólio</h2>
 
 <p align="center">
- <img alt="OriginSix" src="https://user-images.githubusercontent.com/31050663/129494426-95b56ff1-122f-464a-a086-4e7a05d2e057.png" width="100%">
+ <img alt="Portfolio Alan Faraj" src="https://user-images.githubusercontent.com/31050663/129494426-95b56ff1-122f-464a-a086-4e7a05d2e057.png" width="100%">
 </p>
 
 
