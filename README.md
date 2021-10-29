@@ -15,7 +15,7 @@
 <h2>Apresentação do portfólio</h2>
 
 <p align="center">
- <img alt="Portfolio Alan Faraj" src="https://user-images.githubusercontent.com/31050663/129494426-95b56ff1-122f-464a-a086-4e7a05d2e057.png"
+ <img alt="Portfolio Alan Faraj" src="https://user-images.githubusercontent.com/31050663/139511580-62aa29f4-e778-48b4-bacf-6480a1784d19.png"
 " width="100%">
 </p>
 
